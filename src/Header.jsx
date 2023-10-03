@@ -17,8 +17,10 @@ function Header() {
             </div>
             <nav>
                 <ul>
+                    <li><a href="#">მთავარი</a></li>
                     <li><a href="#">ჩვენს შესახებ</a></li>
                     <li><a href="#">პროდუქტები</a></li>
+                    <li><a href="#">რეკლამა</a></li>
                     <li><a href="#">კონტაქტი</a></li>
                 </ul>
             </nav>

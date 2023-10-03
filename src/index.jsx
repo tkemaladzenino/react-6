@@ -21,8 +21,7 @@ class App extends React.Component {
         return (
             <>
                 <Header />
-                <div className="btn"> <button type="button" className={"btn btn-success"} onClick={this.item}>დააკლიკე  </button ></div>
-
+                <div className="btn"> <button type="button" className={"btn btn-success"} style={{ color: "#8B8E99" }} onClick={this.item}>დააკლიკე  </button ></div>
                 <Footer />
             </>
         );

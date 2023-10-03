@@ -4,7 +4,7 @@ function Footer() {
 
     return (
         <footer>
-            <p>  &copy;  ნინო ტყემალაძე</p>
+            <p style={{ color: "#8B8E99" }}>  &copy;  ნინო ტყემალაძე</p>
         </footer>
 
     )
