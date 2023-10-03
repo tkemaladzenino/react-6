@@ -3,7 +3,6 @@ body {
 }
 
 header {
-
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -11,6 +10,7 @@ header {
     height: 70px;
     padding-left: 30px;
     gap: 100px;
+    border: 2px solid brown;
 
 }
 
@@ -27,9 +27,13 @@ a {
     text-decoration: none;
 }
 
+img {
+    border: 2px solid brown;
+}
+
 .btn {
     margin-top: 110px;
-    margin-bottom: 153px;
+    margin-bottom: 151px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -42,8 +46,8 @@ button {
     background-color: rgb(243, 233, 220);
     height: 60px;
     width: 250px;
-    border: none;
     border-radius: 20px;
+    border: 2px solid brown;
 }
 
 footer {
@@ -53,4 +57,5 @@ footer {
     display: flex;
     justify-content: center;
     align-items: center;
+    border-top: 2px solid brown;
 }

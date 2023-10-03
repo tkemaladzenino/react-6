@@ -7,6 +7,7 @@ function Header() {
 
     const logoStyle = {
         width: '60px',
+
     };
 
     return (
